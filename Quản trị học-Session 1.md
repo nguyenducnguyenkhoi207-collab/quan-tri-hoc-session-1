@@ -37,6 +37,7 @@ Task 1: Phân tích và Vận dụng Mô hình P.O.L.C
 ​Ví dụ so sánh CEO và Quản đốc phân xưởng về Kỹ năng Nhận thức/Tư duy:
 
 ​CEO: Đưa ra quyết định chiến lược: "Chuyển dịch 30% dây chuyền sang sản xuất dòng sản phẩm thân thiện với môi trường để mở rộng thị phần trong 2 năm tới."
+
 ​Quản đốc phân xưởng (Cấp cơ sở): Chủ yếu dùng kỹ năng kỹ thuật để thực thi quyết định đó: bố trí nhân công đứng máy nào, vận hành bảo dưỡng máy ra sao để bảo đảm ra đúng 1.000 sản phẩm/ngày đạt chuẩn kỹ thuật.
     
 ​Task 3: Hiệu quả (Effectiveness) vs Hiệu suất (Efficiency):
