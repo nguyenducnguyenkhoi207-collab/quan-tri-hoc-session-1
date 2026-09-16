@@ -3,21 +3,25 @@ Task 1: Phân tích và Vận dụng Mô hình P.O.L.C
 ​Hoạch định (Planning):
 
 ​Vấn đề: Các phòng ban làm việc rời rạc, không có định hướng chung do công ty tăng trưởng quá nóng mà thiếu chiến lược thống nhất.
+
 ​Hành động CEO: Thiết lập lại tầm nhìn, sứ mệnh và mục tiêu chiến lược rõ ràng cho giai đoạn tới; triển khai mô hình OKRs/KPIs xuyên suốt từ cấp công ty xuống từng phòng ban để đồng bộ hóa hướng đi.
     
 ​Tổ chức (Organizing):
 
 ​Vấn đề: Bộ máy nhân sự phình to nhanh chóng, cấu trúc cồng kềnh, dễ chồng chéo nhiệm vụ và gây lãng phí nguồn lực.
+
 ​Hành động CEO: Rà soát lại sơ đồ tổ chức (Org Chart); chuẩn hóa bản mô tả công việc (JD) cho từng vị trí để rõ người, rõ việc, rõ trách nhiệm ; tinh gọn các khâu trung gian và thiết lập quy trình phối hợp liên phòng ban (Cross-functional).
     
 ​Lãnh đạo (Leading):
 
 ​Vấn đề: Đội ngũ nhân sự thiếu gắn kết, mất phương hướng và giảm sút động lực sau thời kỳ tăng trưởng nóng.
+
 ​Hành động CEO: Tổ chức các buổi meeting để truyền thông rõ ràng về định hướng mới, xây dựng văn hóa doanh nghiệp minh bạch và thiết lập cơ chế ghi nhận, khen thưởng xứng đáng để thúc đẩy tinh thần làm việc.
     
 ​Kiểm soát (Controlling):
 
 ​Vấn đề: Chi phí vận hành tăng vọt, thiếu các công cụ đo lường và giám sát hiệu quả công việc thực tế.
+
 ​Hành động CEO: Thiết lập hệ thống kiểm soát ngân sách chặt chẽ; định kỳ đánh giá hiệu suất qua các chỉ số tài chính và vận hành; xây dựng quy trình phát hiện sai lệch để kịp thời điều chỉnh chi phí.
     
 ​Task 2: Áp dụng 3 Nhóm Kỹ năng Quản trị (Mô hình Katz)
