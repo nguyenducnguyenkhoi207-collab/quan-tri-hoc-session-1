@@ -1,6 +1,6 @@
 # BÀI TẬP THỰC HÀNH SESSION 1
 *Môn học:* SSK101 - Kỹ năng học tập chủ động & Phát triển bản thân  
-*Họ và tên:* Nguyễn Đức Nguyên Khôi   
+
 
 ---
 
