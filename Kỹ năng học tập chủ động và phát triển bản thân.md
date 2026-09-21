@@ -87,35 +87,37 @@ Nếu bỏ qua giai đoạn Before, người học sẽ rơi vào tình trạng 
 * Dễ rơi vào tâm lý hoang mang, tự ti, không đóng góp được cho nhóm và nhận đánh giá kém từ đồng đội.
 
 ---
+### NHIỆM VỤ 4. LEARNING LAB
 
-## NHIỆM VỤ 4: LEARNING LAB (THỰC HÀNH CHU TRÌNH HỌC CHỦ ĐỘNG)
+**Bước 1. BEFORE – Strategic Skimming**
+* **03 từ khóa:** Giữ chân người dùng, Trải nghiệm người dùng (UX), Phân tích dữ liệu.
+* **01 ý chính dự đoán:** Lượt tải cao không bằng việc giữ chân được người dùng thông qua việc đáp ứng đúng nhu cầu và có UX tốt.
+* **01 câu hỏi:** Làm sao để biết người dùng thực sự cần tính năng nào mà không phải suy đoán?
 
-Chủ đề áp dụng thực hành: Phương pháp học tập chủ động và Tải trọng nhận thức trong môi trường đại học.
+**Bước 2. DURING – Cornell Notes + Active Recall**
 
-### Bước 1: BEFORE – Strategic Skimming
-* *03 từ khóa cốt lõi:* Cognitive Load (Tải trọng nhận thức), Active Recall (Hồi tưởng chủ động), Flipped Classroom (Lớp học đảo ngược).
-* *Dự đoán 01 ý chính của bài:* Bài viết phân tích cơ chế xử lý thông tin của não bộ và chứng minh rằng việc chủ động truy xuất kiến thức cùng chuẩn bị bài trước là chìa khóa để vượt qua áp lực học tập đại học.
-* *01 câu hỏi muốn tìm câu trả lời:* Làm thế nào để giảm thiểu "Tải trọng ngoại lai" khi tiếp xúc với một lượng tài liệu học thuật quá đồ sộ?
+* **Bảng Cornell Notes (Tóm tắt nhanh):**
+  * *Lượt tải $\neq$ Thành công:* Thu hút dễ, giữ chân mới khó. Tải về rồi xóa chỉ gây lãng phí.
+  * *Bắt đầu từ nhu cầu:* Không nhồi nhét tính năng (AI, game). Sinh viên chỉ cần lịch học, nhắc bài tập.
+  * *Trải nghiệm (UX):* Tính năng tốt nhưng đăng ký rườm rà, khó dùng = Khách rời bỏ.
+  * *Dữ liệu & Phản hồi:* Đánh giá qua dữ liệu thực tế để đơn giản hóa ứng dụng, tập trung vào giá trị cốt lõi.
 
-### Bước 2: DURING – Cornell Notes + Active Recall
-* *Ghi chép theo phương pháp Cornell:*
-  * Cột Cue/Từ khóa (bên trái): Thuyết tải trọng nhận thức; Kỹ thuật Active Recall.
-  * Cột Note/Ghi chú (bên phải):
-    * Tải trọng nhận thức gồm 3 loại: Nội tại (độ khó tự nhiên của bài), Ngoại lai (do cách trình bày kém), Hữu ích (nỗ lực để hiểu sâu).
-    * Active Recall: Đóng sách để nhớ lại, hiệu quả vượt trội hơn đọc thụ động nhiều lần vì ép não tạo liên kết nơ-ron mạnh.
-  * Summary (đáy trang): Tiếp thu kiến thức hiệu quả đòi hỏi phải giảm tải trọng gây nhiễu, tập trung năng lượng tư duy vào tải trọng hữu ích và liên tục kiểm tra lại bộ nhớ bằng câu hỏi thay vì đọc thụ động.
-* *Thực hành Active Recall (Đóng tài liệu và tự viết lại):*
-  * Nội dung tự truy xuất: Não có giới hạn xử lý; muốn nhớ lâu phải tự truy xuất thông tin ra ngoài; học thụ động nhìn slide chỉ tạo cảm giác hiểu ảo chứ không ứng dụng được vào đề thi tình huống.
+* **Active Recall:**
+Dù có 10.000 lượt tải, StudyGo vẫn thất bại bước đầu vì nhồi nhét quá nhiều tính năng và đăng ký rườm rà. Sau khi phân tích dữ liệu, họ cắt bỏ tính năng thừa, tập trung vào UX đơn giản (nhắc lịch học, công việc) và đã cải thiện được việc giữ chân người dùng.
 
-### Bước 3: AFTER – Feynman Technique + Spaced Repetition
-* *Viết lại 03 ý quan trọng nhất:*
-  1. Học đại học đòi hỏi tư duy giải quyết vấn đề (mức Vận dụng trở lên), không phải học thuộc lòng.
-  2. Lớp học đảo ngược yêu cầu phải tự nạp lý thuyết tại nhà để dành giờ trên lớp phản biện và giải case study.
-  3. Não bộ quên rất nhanh theo quy luật tự nhiên, muốn giữ lại kiến thức bắt buộc phải dùng Active Recall và ngắt quãng ôn tập.
-* *Chọn 01 khái niệm và giải thích bằng ngôn ngữ đơn giản (Kỹ thuật Feynman):*
-  * Khái niệm:
-*Active Recall (Chủ động hồi tưởng)*
-  * Giải thích đơn giản: Hãy tưởng tượng việc học giống như tập gym cho cơ bắp. Đọc đi đọc lại một cuốn sách giống như việc bạn ngồi xem người khác nâng tạ — trông thì có vẻ dễ nhưng cơ bắp của bạn không phát triển. Active Recall giống như việc bạn tự tay nâng tạ: đóng sách lại, tự đặt câu hỏi và bắt não phải "gồng lên" để kéo câu trả lời ra. Mỗi lần não bạn phải gắng sức nhớ lại như vậy, "sợi cơ ghi nhớ" sẽ càng chắc khỏe và bạn sẽ không bị quên kiến thức khi thi.
-* *Xác định 02 thời điểm ôn lại (Spaced Repetition):*
-  * Lần 1: Sau 24 giờ kể từ khi hoàn thành bài học (tự giải đề kiểm tra ngắn không xem tài liệu).
+**Bước 3. AFTER – Feynman + Spaced Repetition**
+
+* **03 ý quan trọng nhất:**
+  1. Tỷ lệ giữ chân quan trọng hơn lượt tải ban đầu.
+  2. Chỉ phát triển tính năng giải quyết đúng "nỗi đau" thực sự của người dùng.
+  3. Trải nghiệm đơn giản và quyết định dựa trên dữ liệu là chìa khóa thành công.
+
+* **Giải thích khái niệm UX (Feynman):** 
+Giống như bạn vào quán ăn, đồ ăn ngon (app xịn) nhưng bắt xếp hàng mua phiếu, điền form rườm rà mới được ăn (đăng ký khó) thì bạn cũng sẽ bỏ về. Ứng dụng phải dễ dùng ngay cú chạm đầu tiên.
+
+* **02 thời điểm ôn lại (Spaced Repetition):**
+  1. Tối mai (sau 24h).
+  2. Chủ nhật tuần này (cuối tuần ôn lại).
+
+ng xem tài liệu).
   * Lần 2: Sau 7 ngày (làm lại sơ đồ tư duy hoặc giải một case study liên quan).
